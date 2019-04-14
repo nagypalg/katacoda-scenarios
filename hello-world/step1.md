@@ -12,7 +12,7 @@ Check Go's version
 
 Update Go
 
-`go get golang.org/dl/go1.12.4 && go1.12.4 download && alias go112=go1.12.4`
+`go get golang.org/dl/go1.12.4 && go1.12.4 download && alias go112=go1.12.4`{{execute}}
 
 Check updated Go's version
 
